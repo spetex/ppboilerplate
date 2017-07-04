@@ -20,3 +20,8 @@ This script creates code coverage and opens up results in a firefox browser.
 ```
 coverage.sh
 ```
+
+For easier debugging ipython interpreter
+```
+ipython
+```
